@@ -1,0 +1,14 @@
+Lisp has dynamic typing, first class functions and garbage collection. These were groundbreaking features in 1960. Today they're no more surprising than conditional logic or recursion.
+
+I really like Python and Javascript, both of which exceed the above feature set, yet I spend my evenings writing lisp. I would like to show you why.
+
+---
+
+The linked github page contains a vagrant file that will install various lisp interpreters under Ubuntu. I'll add a few slides and some examples to the same repo this evening.
+
+This is a link to a superb textbook which fortunately includes a lot of examples. There's also a set of solutions to (some of) the examples.
+
+https://mitpress.mit.edu/sicp/
+http://community.schemewiki.org/?SICP-Solutions
+
+There's also an interesting essay by Paul Graham, http://www.paulgraham.com/avg.html. I'm posting it to ward of the temptation to recycle his arguments - worth a read. 
